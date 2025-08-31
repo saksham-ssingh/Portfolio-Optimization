@@ -36,14 +36,15 @@ The analysis covers **return optimization, risk-adjusted performance, and visual
 ---
 
 ## 🖥️ Dashboard Preview
-![Efficient Frontier](images/efficient_frontier.png)
-![Portfolio Allocation](images/allocation_pie.png)
+
+<img width="994" height="610" alt="Screenshot 2025-08-31 at 8 30 57 PM" src="https://github.com/user-attachments/assets/49457471-fe01-4b0b-b805-fcce34416054" />
 
 ---
 
 ## 📄 Report & Dashboard
-- [Final Report (PDF)](reports/Portfolio_Optimization_Report.pdf)  
-- [Interactive Dashboard](dashboard/portfolio_dashboard.pbix)  
+
+[Portfolio Optimization.xlsx](https://github.com/user-attachments/files/22067083/Portfolio.Optimization.xlsx)
+
 
 ---
 
